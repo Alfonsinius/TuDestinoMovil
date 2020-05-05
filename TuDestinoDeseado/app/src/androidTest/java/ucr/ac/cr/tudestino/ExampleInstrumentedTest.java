@@ -1,4 +1,4 @@
-package ucr.ac.cr.tudestinodeseado;
+package ucr.ac.cr.tudestino;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("ucr.ac.cr.tudestinodeseado", appContext.getPackageName());
+        assertEquals("ucr.ac.cr.tudestino", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package ucr.ac.cr.tudestinodeseado;
+package ucr.ac.cr.tudestino;
 
 import org.junit.Test;
 
